@@ -1,0 +1,12 @@
+{
+  "name": "client",
+  "version": "1.0.0",
+  "description": "A simple ws client demo",
+  "main": "app.js",
+  "scripts": {
+    "serve": "npx http-server -c-1 -p 10240"
+  },
+  "keywords": [],
+  "author": "wu.zijie.software@gmail.com",
+  "license": "MIT"
+}
